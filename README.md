@@ -1,4 +1,4 @@
-# CollectZipfmOnAirSongs
+# CollectOnAirSongs
 ## How to use
 [FM802]
 ```python
